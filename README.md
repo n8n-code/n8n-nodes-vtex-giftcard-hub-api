@@ -55,8 +55,8 @@ That's it. No configuration files. No code. It just works.
 
 | Resource | Operations |
 |----------|------------|
-| Provider | GET List All GiftCard Providers, DELETE Delete GiftCard Provider by ID, PUT Create/Update GiftCard Provider by ID, GET Get GiftCard Provider by ID |
-| Transaction | POST Create GiftCard in GiftCard Provider, POST Get GiftCard from GiftCard Provider, GET Get GiftCard from GiftCard Provider by ID, GET List All GiftCard Transactions, POST Create GiftCard Transaction, GET List All GiftCard Cancellation Transactions, POST Create GiftCard Cancellation Transaction, GET List All GiftCard Settlement Transactions, POST Create GiftCard Settlement Transaction, GET Get GiftCard Transaction by ID, GET Get GiftCard Authorization Transaction |
+| Provider | Get list all giftcard providers, Delete giftcard provider by id, Put createupdate giftcard provider by id, Get giftcard provider by id |
+| Transaction | Post create giftcard in giftcard provider, Post get giftcard from giftcard provider, Get giftcard from giftcard provider by id, Get list all giftcard transactions, Post create giftcard transaction, Get list all giftcard cancellation transactions, Post create giftcard cancellation transaction, Get list all giftcard settlement transactions, Post create giftcard settlement transaction, Get giftcard transaction by id, Get giftcard authorization transaction |
 
 ---
 
